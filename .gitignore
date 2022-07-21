@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+#This file contains the amazon aws access keys, it should not be commited to github to avoid security breaches
+application.yaml
