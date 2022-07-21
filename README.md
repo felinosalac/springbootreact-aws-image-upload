@@ -37,3 +37,6 @@ Go to S2 services and create a new bucket, this new bucket will be used to store
 
 #User Profile Model
 
+#Create in-memory database
+
+#API & Service Layers
