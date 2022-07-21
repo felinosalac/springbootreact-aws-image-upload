@@ -34,3 +34,6 @@ Save the credentials for later use.
 Go to S2 services and create a new bucket, this new bucket will be used to store the images.
 
 #Saving Files to S3 bucket
+
+#User Profile Model
+
